@@ -11,7 +11,7 @@ With a **Master’s degree in Artificial Intelligence & Data Science**, I approa
 - 🌍 Based in **Poland**
 - 🖥️ Portfolio: **[mareksigmund.github.io/Portfolio_eng](https://mareksigmund.github.io/Portfolio_eng/)**
 - ✉️ Contact: **[m.sigmund@o2.pl](mailto:m.sigmund@o2.pl)**
-- 🚀 Currently working on: **[AutoLogix (Angular + ASP.NET Core)](https://autologix-rgvhbkcad-mareksigmunds-projects.vercel.app)**
+- 🚀 Currently working on: **[AutoLogix (Angular + ASP.NET Core)]([https://autologix-rgvhbkcad-mareksigmunds-projects.vercel.app](https://autologix-git-master-mareksigmunds-projects.vercel.app/login))**
 - 🧠 Currently learning: **Modern Angular patterns** + **advanced application architecture**
 - 🤝 Open to collaborating on: **Full-stack web apps, APIs, dashboards, and CRUD systems**
 - ✅ Focus: **clear project structure, maintainable code, and well-designed application architecture**
