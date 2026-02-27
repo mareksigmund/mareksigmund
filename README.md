@@ -84,16 +84,26 @@ With a **Master’s degree in Artificial Intelligence & Data Science**, I approa
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
   </a>
 </p>
+
+
 ---
 
+## 🚀 Explore My Work
 
-## 📊 GitHub Stats
+### 🌐 Portfolio  
+Modern developer portfolio presenting selected full-stack projects, architecture decisions and tech stack details.  
+🔗 https://mareksigmund.github.io/Portfolio_eng/
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mareksigmund&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareksigmund&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📄 Interactive Web CV  
+Flipbook-style interactive CV built as a single-page web application.  
+🔗 (tu wstaw link jak tylko wdrożysz)
 
+---
+
+### 📂 Project Repository  
+Collection of full-stack and experimental projects (Angular, .NET, Laravel, AI).  
+🔗 https://github.com/mareksigmund/Projekty
+
+---
