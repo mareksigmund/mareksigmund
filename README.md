@@ -90,20 +90,35 @@ With a **Master’s degree in Artificial Intelligence & Data Science**, I approa
 
 ## 🚀 Explore My Work
 
+<table>
+<tr>
+<td width="33%" align="center">
+
 ### 🌐 Portfolio  
-Modern developer portfolio presenting selected full-stack projects, architecture decisions and tech stack details.  
-🔗 https://mareksigmund.github.io/Portfolio_eng/
+Full-stack projects showcase  
+<br/><br/>
+<a href="https://mareksigmund.github.io/Portfolio_eng/">Visit →</a>
 
----
+</td>
 
-### 📄 Interactive Web CV  
-Flipbook-style interactive CV built as a single-page web application.  
-🔗 (tu wstaw link jak tylko wdrożysz)
+<td width="33%" align="center">
 
----
+### 📄 Web CV  
+Interactive flipbook resume  
+<br/><br/>
+<a href="#">Open →</a>
 
-### 📂 Project Repository  
-Collection of full-stack and experimental projects (Angular, .NET, Laravel, AI).  
-🔗 https://github.com/mareksigmund/Projekty
+</td>
+
+<td width="33%" align="center">
+
+### 📂 Projects  
+Source code & repositories  
+<br/><br/>
+<a href="https://github.com/mareksigmund/Projekty">Browse →</a>
+
+</td>
+</tr>
+</table>
 
 ---
