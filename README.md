@@ -86,16 +86,13 @@ With a **Master’s degree in Artificial Intelligence & Data Science**, I approa
 </p>
 ---
 
-## 📊 GitHub stats
+
+## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/mareksigmund">
-    <img src="https://github-readme-stats.vercel.app/api?username=mareksigmund&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mareksigmund&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/mareksigmund">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareksigmund&langs_count=10&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareksigmund&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
