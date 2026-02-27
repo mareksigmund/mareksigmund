@@ -96,3 +96,11 @@ With a **Master’s degree in Artificial Intelligence & Data Science**, I approa
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareksigmund&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## ⭐ Featured Project
+
+### 🚗 AutoLogix  
+Full-stack vehicle, service and insurance management system built with Angular and ASP.NET Core.
+
+🔗 Live: https://autologix.vercel.app  
+📂 Repository: https://github.com/mareksigmund/NAZWA_REPO_AUTOLOGIX
