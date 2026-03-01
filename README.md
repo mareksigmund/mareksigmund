@@ -1,4 +1,4 @@
-# Hi! 👋 My name is Marek Sigmund
+# Hi! 👋 My name is Marek
 
 **Full-Stack Developer | .NET & Angular | AI & Data Science**
 
